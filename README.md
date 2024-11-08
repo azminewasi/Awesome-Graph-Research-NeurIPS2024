@@ -493,7 +493,7 @@ This repo contains a comprehensive compilation of **graph and/or GNN** papers th
 
 
 **Missing any paper?**
-If any paper is absent from the list, please feel free to [mail](mailto:azminetoushik.wasi@gmail.com) or [open an issue](https://github.com/azminewasi/Awesome-Graph-Research-ICML2024/issues/new/choose) or submit a pull request. I'll gladly add that! Also, If I mis-categorized, please knock!
+If any paper is absent from the list, please feel free to [mail](mailto:azminetoushik.wasi@gmail.com) or [open an issue](https://github.com/azminewasi/Awesome-Graph-Research-NeurIPS2024/issues/new/choose) or submit a pull request. I'll gladly add that! Also, If I mis-categorized, please knock!
 
 ---
 
